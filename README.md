@@ -75,9 +75,7 @@ $ cd jest-usage-example
 $ yarn
 
 # Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+$ yarn dev
 ```
 
 Made with :heart: by <a href="https://github.com/messiasGeovani" target="_blank">Messias Geovani</a>
