@@ -76,6 +76,9 @@ $ yarn
 
 # Run the project
 $ yarn dev
+
+# Run tests
+$ yarn test
 ```
 
 Made with :heart: by <a href="https://github.com/messiasGeovani" target="_blank">Messias Geovani</a>
