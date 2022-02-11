@@ -9,17 +9,17 @@
 <h1 align="center">Jest Usage Example</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/messiasGeovani/jest-usage-example?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/messiasGeovani/jest-usage-example?color=15C213">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/messiasGeovani/jest-usage-example?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/messiasGeovani/jest-usage-example?color=15C213">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/messiasGeovani/jest-usage-example?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/messiasGeovani/jest-usage-example?color=15C213">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/messiasGeovani/jest-usage-example?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/messiasGeovani/jest-usage-example?color=15C213" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/messiasGeovani/jest-usage-example?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/messiasGeovani/jest-usage-example?color=15C213" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/messiasGeovani/jest-usage-example?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/messiasGeovani/jest-usage-example?color=15C213" /> -->
 </p>
 
 <!-- Status -->
